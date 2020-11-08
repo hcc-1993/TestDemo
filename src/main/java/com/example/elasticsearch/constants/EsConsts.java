@@ -8,6 +8,4 @@ public interface EsConsts {
      //索引名称
     String INDEX_NAME_MERCURY = "goods";
 
-    String INDEX_NAME="name";
-
 }
